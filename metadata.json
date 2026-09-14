@@ -1,0 +1,6 @@
+{
+  "name": "Retro Game Hub",
+  "description": "A retro-arcade game hub featuring Tic-Tac-Toe, Snakes & Ladders (2-6 players), and Simple Ludo (2-4 players) with Player vs Computer and Pass & Play modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
